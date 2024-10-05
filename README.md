@@ -12,7 +12,7 @@ Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Find Me Online </h2>
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50; line-height: 1.6;">
   <li><strong>Instagram</strong>: <a href="https://instagram.com/mo.shazil" style="color: #2980b9;">@mo.shazil</a></li>
-  <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/abhijiiitpatil" style="color: #2980b9;">@abhijiiitpatil</a></li>
+  <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/muhammadshazil" style="color: #2980b9;">@muhammadshazil</a></li>
   <li><strong>GitHub</strong>: <a href="https://github.com/shaazil" style="color: #2980b9;">@shaazil</a></li>
 </ul>
 
